@@ -105,3 +105,4 @@ Blinkit-Sales-Dashboard/
 
 This project demonstrates how Power BI can transform retail sales data into an interactive decision-support system. By combining effective data modeling, DAX measures, and intuitive visualizations, the dashboard provides actionable insights that improve business monitoring and strategic decision-making.
 
+https://github.com/arya27204/Blinkit-Sales-Dashboard/blob/main/Blinkit%20Sales%20Dashboard.png
